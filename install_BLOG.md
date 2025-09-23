@@ -15,7 +15,7 @@ Il faut maintenant ouvrir index.php, et éditer ces lignes :
 -sur la ligne 124, vous devez modifiez l'url https://localhost par l'url de votre systeme de connection. (c'est l'url qui s'ouvre lorsque vous cliquer sur Se connecter)  
 -sur la ligne 144, nommer le nom de votre site qui s'affiche en gras en plein milieu du blog ( ici : <img width="511" height="124" alt="image" src="https://github.com/user-attachments/assets/ef2e0e70-42d3-41c2-a688-e26105e55f51" /> )  
 -sur la ligne 145, nommer la description du site (qui s'affiche ici : <img width="535" height="139" alt="image" src="https://github.com/user-attachments/assets/dfcd26f3-02b1-4bb1-90f1-1709695df936" /> )  
--sur la ligne 166, personnaliser les infoc bas de pages (ex : crédit, ...)  
+-sur la ligne 166, personnaliser les info bas de pages (ex : crédit, ...)  
 
 # Publication
 *Cette article est en court de rédaction revenez plus tard :)*
