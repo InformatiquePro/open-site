@@ -18,3 +18,4 @@ Il faut maintenant ouvrir index.php, et éditer ces lignes :
 -sur la ligne 166, personnaliser les infoc bas de pages (ex : crédit, ...)  
 
 # Publication
+*Cette article est en court de rédaction revenez plus tard :)*
