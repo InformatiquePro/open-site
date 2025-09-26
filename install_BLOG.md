@@ -19,3 +19,11 @@ Il faut maintenant ouvrir index.php, et éditer ces lignes :
 
 # Publication
 *Cette article est en court de rédaction revenez plus tard :)*
+**--Info**
+OpenSite Blog permet d'afficher 3 articles maximum "à la une" qui s'affiche lorsqu'on ouvre votre site.  
+Apres, lorsqu'on clique sur En voir plus, votre site chargera les articles 5 par 5 et les affichera par date de créations : du plus jeune au plus vieux.  
+**--1**
+Tout d'abord, les 3 articles à la une sont situer dans le dossier front. Les 3 articles (ça peut être moins) devront avoir cette syntaxe de nom : X-Y.txt ou X est le numéro d'affichage, 1 = en haut des tros articles, 3 = en dernier des 3 articles, Y= le nom de l'article, écrit en gras. exemple du dossier front avec 3 articles : <img width="183" height="121" alt="image" src="https://github.com/user-attachments/assets/506fe6d2-3773-4ef3-bed0-8f85063b8ab0" />
+
+
+
