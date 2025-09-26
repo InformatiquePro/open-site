@@ -1,4 +1,5 @@
 <?php
+// Cherles-Elie Software -- logiciel OpenSource, profitez !
 // --- PARTIE API POUR LE CHARGEMENT DYNAMIQUE ---
 // Si la page est appelée avec le paramètre 'action=load_archives',
 // on ne retourne que les données des articles au format JSON.
