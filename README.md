@@ -8,5 +8,5 @@ Publications prévu au plus tard dimanche prochain !
 # Info
 Le premier module à sortir sera la module blog/portfolio. Le systeme de gestion des comptes pour se connecter à l'éditeurs ne sera pas open-source. Plus d'info [ICI](https://ipro.frstud.fr/soft/account/)
 
-#Instalation 
+# Installation 
 Pour installer, suiver le guide dispo [ICI](https://github.com/InformatiquePro/open-site/blob/main/install_BLOG.md)
