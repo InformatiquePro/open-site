@@ -1,4 +1,5 @@
 <?php
+//Charles-Elie Software -- Ce logiciel est en OpenSource, profitez !
 // Développer Par Charles-Elie Software  --- même si ce n'est pas nécéssaire, il toujours préférables d'indiquer sur votre blog le github de OpenSite
 // --- PARTIE API POUR LE CHARGEMENT DYNAMIQUE ---
 // Si la page est appelée avec le paramètre 'action=load_archives',
