@@ -1,14 +1,18 @@
 *Concerne le module blog/portfolio uniquement*
 # Préparations
+  
 Pour installer OpenSite, vous devez avoir installer un serveur web (type apache/nginx) et avoir php 8.4 minimum ( je pense que ça pourrait marcher sur d'ancienne version de php, mais je n'ai pas testé)
 
 # Etapes 1
+  
 Tous d'abord, récupérer le fichier index_blog.php sur le dépôt. Placer ce fichier ou vous le souhaitez dans le serveur web, par exemple à la racine pour que dès que vous accédier à votre domaine vous tombiez sur votre blog. Vous pouvez aussi le placer dans un sous dossier.
 
 # Etapes 2
+  
 OpenSite (blog) nécéssite de créer 3 fichier (2 si il n'y a pas l'éditeur). Dans l'endroit ou vous avez placer le index_blog.php, créer un dossier front, archive et draft (facultatif si l'éditeur n'est pas présent).
 
 # Etapes 3
+  
 Je vous recommandes de renomer index_blog.php en index.php (dans la suite, je nomerai index_blog.php en index.php).
 Il faut maintenant ouvrir index.php, et éditer ces lignes :  
 -sur la ligne 90, remplacer Votre Site par le nom de votre site afficher dans le nom de l'onglet  
@@ -18,7 +22,7 @@ Il faut maintenant ouvrir index.php, et éditer ces lignes :
 -sur la ligne 166, personnaliser les info bas de pages (ex : crédit, ...)  
 
 # Publication
-*Cette article est en court de rédaction revenez plus tard :)*
+  
 **--Info**
 OpenSite Blog permet d'afficher 3 articles maximum "à la une" qui s'affiche lorsqu'on ouvre votre site.  
 Apres, lorsqu'on clique sur En voir plus, votre site chargera les articles 5 par 5 et les affichera par date de créations : du plus jeune au plus vieux.  
