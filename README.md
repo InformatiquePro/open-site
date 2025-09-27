@@ -10,3 +10,7 @@ Le premier module à sortir sera la module blog/portfolio. Le systeme de gestion
 
 # Installation 
 Pour installer, suiver le guide dispo [ICI](https://github.com/InformatiquePro/open-site/blob/main/install_BLOG.md)
+
+# Version
+Actuelement, le projet est à sa version 1.2 sur github.  
+Je suis entrainde déployer sur mon site à V1.3, qui est en teste et rajoute plusieurs options  
