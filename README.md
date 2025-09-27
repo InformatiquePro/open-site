@@ -1,5 +1,6 @@
 # open-site
 OpenSite est un CMS libre de création de blog, léger et efficace !
+Voici son site : [clique ICI](https://open-site.ipro.frstud.fr/)
 
 # Demo
 Une démo est disponnible [ICI](https://ipro.frstud.fr/git-load2/) sans rien, et [ICI](https://ipro.frstud.fr/) sur mon blog.
