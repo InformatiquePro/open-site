@@ -11,6 +11,10 @@ Le premier module à sortir sera la module blog/portfolio. Le systeme de gestion
 # Installation 
 Pour installer, suiver le guide dispo [ICI](https://github.com/InformatiquePro/open-site/blob/main/install_BLOG.md)
 
+# Editeur
+
+L'éditeur arrive bientôt en open source, en voici une ébauche : <img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/9a03f700-fdcc-478f-8f7c-4e15c97105ed" />
+
 # Version
 Actuelement, le projet est à sa version 1.2 sur github.  
 Je suis entrainde déployer sur mon site à V1.3, qui est en teste et rajoute plusieurs options  
