@@ -18,4 +18,4 @@ L'éditeur arrive bientôt en open source, en voici une ébauche : <img width="1
   
 # Version
 Actuelement, le projet est à sa version 1.2 sur github.  
-Je suis entrainde déployer sur mon site à V1.3, qui est en teste et rajoute plusieurs options  
+Je suis entrain de déployer sur mon site à V1.3, qui est en teste et rajoute plusieurs options  
