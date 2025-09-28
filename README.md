@@ -1,6 +1,6 @@
 # open-site
 <img width="512" alt="logo_op-site" src="https://github.com/user-attachments/assets/0494d3e1-e872-4101-9df8-0936f2e01d37" />
-
+*(Logo généré sur ChatGPT)*
 
 OpenSite est un CMS libre de création de blog, léger et efficace !
 Voici son site : [clique ICI](https://open-site.ipro.frstud.fr/)
