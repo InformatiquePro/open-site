@@ -49,7 +49,7 @@ art=# ACCOUNT MANAGER API SYST
 - Création des comptes directement en base de données, sans interface web   
 ...etc, article dispo sur mon site -
 ```
-C'est pareil pour les 3 articles du dossier front.
+C'est pareil pour les 3 articles du dossier front.  
 **--2**
 Ensuite, il y a le dossier archive. Dans ce dossier, ce sera tous les autres articles mais ils devront respecter cette syntaxe : s-X_D.txt ou s n'a pas de significations, j'ai eu envie de commencer les noms des articles par s, donc voila :), sinon X= le nom de l'article, qui sera afficher en gras, D=la date, sous **CE FORMAT** : DD-MM-AAAA. Exemple de nom de fichier complet : s-TEST démo_26-09-2025.txt dans ce fichier, c'est d'abord sub=le sous titre, et art=l'article rédiger en markdown
 
