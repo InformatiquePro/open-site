@@ -1,4 +1,5 @@
-*Concerne le module blog/portfolio uniquement*
+>[!WARNING]
+> *Concerne le module blog/portfolio uniquement*
 # Préparations
   
 Pour installer OpenSite, vous devez avoir installer un serveur web (type apache/nginx) et avoir php 8.4 minimum ( je pense que ça pourrait marcher sur d'ancienne version de php, mais je n'ai pas testé)
