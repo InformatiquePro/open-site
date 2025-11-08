@@ -1,4 +1,9 @@
 >[!WARNING]
+> *Déplacement iminent : une nouvel doc arrive, avec les traductions en anglais. Cette doc ne sera plus accessible ICI d'ici 1 ans.*
+
+
+
+>[!WARNING]
 > *Concerne le module blog/portfolio uniquement*
 # Préparations
   
