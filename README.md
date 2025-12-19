@@ -7,7 +7,6 @@ Voici son site : [clique ICI](https://open-site.ipro.frstud.fr/)
 
 # Demo
 Une démo est disponnible [ICI](https://ipro.frstud.fr/git-load2/) sans rien, et [ICI](https://ipro.frstud.fr/) sur mon blog.
-Publications prévu au plus tard dimanche prochain !
   
 # Info
 Le premier module à sortir sera la module blog/portfolio. Le systeme de gestion des comptes pour se connecter à l'éditeurs ne sera pas open-source. Il sera disponnible aux **prix de 4.99$ sur builtbybit bientôt**. Plus d'info [ICI](https://ipro.frstud.fr/soft/account/)
