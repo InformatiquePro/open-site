@@ -3,13 +3,13 @@
 *Logo créé par ChatGPT*
 
 OpenSite est un CMS libre de création de blog, léger et efficace !
-Voici son site : [clique ICI](https://open-site.ipro.frstud.fr/)
+Voici son site : [clique ICI](https://ipro.giize.com/open-site/)
 
 # Demo
 Une démo est disponnible [ICI](https://ipro.giize.com/demo/opensite.blog/) sans rien, et ICI (non disponnible, je déplace mon blog sur un nouveau serveur.) sur mon blog.
   
 # Info
-Le premier module à sortir sera la module blog/portfolio. Le systeme de gestion des comptes pour se connecter à l'éditeurs ne sera pas open-source. Il sera disponnible aux **prix de 4.99$ sur builtbybit bientôt**. Plus d'info [ICI](https://ipro.frstud.fr/soft/account/)
+Le premier module à sortir sera la module blog/portfolio. Le systeme de gestion des comptes pour se connecter à l'éditeurs ne sera pas open-source. Il sera disponnible aux **prix de 4.99$ sur builtbybit bientôt**. Plus d'info [ICI](https://ipro.giize.com/soft/account/)
   
 # Installation 
 Pour installer, suiver le guide dispo [ICI](https://github.com/InformatiquePro/open-site/blob/main/install_BLOG.md)
