@@ -3,20 +3,20 @@
 *Logo créé par ChatGPT*
 
 OpenSite est un CMS libre de création de blog, léger et efficace !
-Voici son site : [clique ICI](https://ipro.giize.com/open-site/)
+Voici son site : [clique ICI](https://charles-elie.fr/open-site/)
 
 # Demo
-Une démo est disponnible [ICI](https://ipro.giize.com/demo/opensite.blog/) sans rien, et ICI (non disponnible, je déplace mon blog sur un nouveau serveur.) sur mon blog.
+Une démo est disponible [ICI](https://charles-elie.fr/demo/opensite.blog/) sans rien, et ICI (non disponible, je déplace mon blog sur un nouveau serveur.) sur mon blog.
   
 # Info
-Le premier module à sortir sera la module blog/portfolio. Le systeme de gestion des comptes pour se connecter à l'éditeurs ne sera pas open-source. Il sera disponnible aux **prix de 4.99$ sur builtbybit bientôt**. Plus d'info [ICI](https://ipro.giize.com/soft/account/)
+Le premier module à sortir sera la module blog/portfolio. Le systeme de gestion des comptes pour se connecter à l'éditeurs ne sera pas open-source. Il sera disponnible aux **prix de 4.99$ sur builtbybit bientôt**. Plus d'info [ICI](https://charles-elie.fr/soft/account/)
   
 # Installation 
 Pour installer, suiver le guide dispo [ICI](https://github.com/InformatiquePro/open-site/blob/main/install_BLOG.md)
   
 # Editeur
 
-L'éditeur arrive bientôt, il sera disbonnible bientôt pour le **prix de 2$ sur builtbybit** en voici une ébauche : <img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/9a03f700-fdcc-478f-8f7c-4e15c97105ed" />
+L'éditeur arrive bientôt, il sera disponible bientôt pour le **prix de 2$ sur builtbybit** en voici une ébauche : <img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/9a03f700-fdcc-478f-8f7c-4e15c97105ed" />
   
 # Version
 Actuelement, le projet est à sa version 1.2 sur github.  
